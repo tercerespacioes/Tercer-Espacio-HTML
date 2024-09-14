@@ -1,0 +1,128 @@
+.contacto-container {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contacto-max-width {
+  align-self: center;
+}
+.contacto-section-title {
+  width: 100%;
+  margin-bottom: var(--dl-space-space-threeunits);
+}
+.contacto-content1 {
+  gap: var(--dl-space-space-oneandhalfunits);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contacto-content2 {
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.contacto-content3 {
+  gap: var(--dl-space-space-oneandhalfunits);
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contacto-content4 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contacto-contact-info1 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contacto-content5 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contacto-contact-info2 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contacto-content6 {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contacto-contact-info3 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contacto-text15 {
+  align-self: flex-start;
+  text-align: center;
+}
+.contacto-iframe {
+  height: 664px;
+}
+.contacto-fragment1 {
+  display: contents;
+}
+.contacto-text17 {
+  display: inline-block;
+}
+.contacto-fragment2 {
+  display: contents;
+}
+.contacto-text18 {
+  display: inline-block;
+}
+.contacto-fragment3 {
+  display: contents;
+}
+.contacto-text19 {
+  display: inline-block;
+}
+.contacto-fragment4 {
+  display: contents;
+}
+.contacto-text23 {
+  display: inline-block;
+}
+.contacto-fragment5 {
+  display: contents;
+}
+.contacto-text24 {
+  display: inline-block;
+}
+.contacto-fragment6 {
+  display: contents;
+}
+.contacto-text25 {
+  display: inline-block;
+}
+@media(max-width: 1600px) {
+  .contacto-iframe {
+    height: 664px;
+  }
+}
+@media(max-width: 991px) {
+  .contacto-content2 {
+    position: relative;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}

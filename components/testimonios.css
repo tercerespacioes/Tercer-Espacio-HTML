@@ -1,0 +1,204 @@
+.testimonios-max-width {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.testimonios-container10 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  max-width: 600px;
+  align-items: center;
+  margin-bottom: var(--dl-space-space-fourunits);
+  flex-direction: column;
+}
+.testimonios-container12 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-self: flex-start;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.testimonios-image1 {
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  object-fit: cover;
+  border-radius: var(--dl-radius-radius-round);
+}
+.testimonios-container13 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.testimonios-container14 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-self: flex-start;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.testimonios-image2 {
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  object-fit: cover;
+  border-radius: var(--dl-radius-radius-round);
+}
+.testimonios-container15 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.testimonios-container16 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-self: flex-start;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.testimonios-image3 {
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  object-fit: cover;
+  border-radius: var(--dl-radius-radius-round);
+}
+.testimonios-container17 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.testimonios-container18 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-self: flex-start;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.testimonios-image4 {
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  object-fit: cover;
+  border-radius: var(--dl-radius-radius-round);
+}
+.testimonios-container19 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.testimonios-fragment10 {
+  display: contents;
+}
+.testimonios-text24 {
+  display: inline-block;
+}
+.testimonios-fragment11 {
+  display: contents;
+}
+.testimonios-text25 {
+  display: inline-block;
+  text-align: left;
+}
+.testimonios-fragment12 {
+  display: contents;
+}
+.testimonios-text26 {
+  display: inline-block;
+  text-align: left;
+}
+.testimonios-fragment13 {
+  display: contents;
+}
+.testimonios-text27 {
+  display: inline-block;
+}
+.testimonios-fragment14 {
+  display: contents;
+}
+.testimonios-text28 {
+  display: inline-block;
+}
+.testimonios-fragment15 {
+  display: contents;
+}
+.testimonios-text29 {
+  display: inline-block;
+  text-align: center;
+}
+.testimonios-fragment16 {
+  display: contents;
+}
+.testimonios-text30 {
+  display: inline-block;
+}
+.testimonios-fragment17 {
+  display: contents;
+}
+.testimonios-text31 {
+  display: inline-block;
+}
+.testimonios-fragment18 {
+  display: contents;
+}
+.testimonios-text32 {
+  display: inline-block;
+}
+.testimonios-fragment19 {
+  display: contents;
+}
+.testimonios-text33 {
+  display: inline-block;
+}
+.testimonios-fragment20 {
+  display: contents;
+}
+.testimonios-text34 {
+  display: inline-block;
+  text-align: left;
+}
+.testimonios-fragment21 {
+  display: contents;
+}
+.testimonios-text35 {
+  display: inline-block;
+  text-align: left;
+}
+.testimonios-fragment22 {
+  display: contents;
+}
+.testimonios-text36 {
+  display: inline-block;
+}
+.testimonios-fragment23 {
+  display: contents;
+}
+.testimonios-text37 {
+  display: inline-block;
+}
+@media(max-width: 991px) {
+  .testimonios-container10 {
+    margin-bottom: var(--dl-space-space-threeunits);
+  }
+}
+@media(max-width: 767px) {
+  .testimonios-container10 {
+    margin-bottom: var(--dl-space-space-oneandhalfunits);
+  }
+  .testimonios-card1 {
+    width: 100%;
+  }
+  .testimonios-card2 {
+    width: 100%;
+  }
+  .testimonios-card3 {
+    width: 100%;
+  }
+  .testimonios-card4 {
+    width: 100%;
+  }
+}

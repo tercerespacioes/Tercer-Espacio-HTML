@@ -1,0 +1,138 @@
+.estadisticas-max-width {
+  gap: var(--dl-space-space-fourunits);
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.estadisticas-container2 {
+  align-self: center;
+  align-items: flex-start;
+}
+.estadisticas-container3 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.estadisticas-container4 {
+  flex: 0 0 auto;
+  width: 50%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.estadisticas-container5 {
+  flex: 0 0 auto;
+  width: 50%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.estadisticas-container6 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.estadisticas-container7 {
+  flex: 0 0 auto;
+  width: 50%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.estadisticas-container8 {
+  flex: 0 0 auto;
+  width: 50%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.estadisticas-container9 {
+  max-width: 50%;
+}
+.estadisticas-fragment10 {
+  display: contents;
+}
+.estadisticas-text21 {
+  display: inline-block;
+}
+.estadisticas-fragment11 {
+  display: contents;
+}
+.estadisticas-text22 {
+  display: inline-block;
+}
+.estadisticas-fragment12 {
+  display: contents;
+}
+.estadisticas-text23 {
+  display: inline-block;
+}
+.estadisticas-fragment13 {
+  display: contents;
+}
+.estadisticas-text24 {
+  display: inline-block;
+}
+.estadisticas-fragment14 {
+  display: contents;
+}
+.estadisticas-text25 {
+  display: inline-block;
+}
+.estadisticas-fragment15 {
+  display: contents;
+}
+.estadisticas-text26 {
+  display: inline-block;
+}
+.estadisticas-fragment16 {
+  display: contents;
+}
+.estadisticas-text27 {
+  display: inline-block;
+}
+.estadisticas-fragment17 {
+  display: contents;
+}
+.estadisticas-text28 {
+  display: inline-block;
+}
+.estadisticas-fragment18 {
+  display: contents;
+}
+.estadisticas-text29 {
+  display: inline-block;
+}
+.estadisticas-fragment19 {
+  display: contents;
+}
+.estadisticas-text30 {
+  display: inline-block;
+}
+.estadisticas-fragment20 {
+  display: contents;
+}
+.estadisticas-text31 {
+  display: inline-block;
+}
+@media(max-width: 991px) {
+  .estadisticas-max-width {
+    gap: var(--dl-space-space-twounits);
+    flex-direction: column;
+  }
+  .estadisticas-container9 {
+    width: 100%;
+    max-width: 100%;
+  }
+}
+@media(max-width: 479px) {
+  .estadisticas-image {
+    width: 100%;
+  }
+}
